@@ -1,6 +1,5 @@
 # Jacob Wilmot
-AI & Data Product Manager focused on building AI-driven products, defining success metrics, and translating machine learning systems into real product decisions.
-
+AI Product Analyst | Product Analytics & ML | SQL, Python | Business → Model → Decision
 ## What I Do
 - Design AI/ML product strategies from problem definition to launch readiness
 - Define product metrics, PRDs, and deployment roadmaps
